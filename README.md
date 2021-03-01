@@ -7,3 +7,4 @@
 1. Java
     1. Spring
         1. [Api Rest](https://github.com/devAlbuquerque/C0DES/tree/master/java/spring/api-rest/forum)
+        1. [Api Rest com autenticação via JWT, monitoramento por Actuator e documentação com Swagger](https://github.com/devAlbuquerque/C0DES/tree/master/java/spring/api-rest-security-jwt)
