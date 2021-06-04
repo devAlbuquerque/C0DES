@@ -5,6 +5,7 @@
 1. Node
     1. [Iniciando Projeto em Node](https://github.com/devAlbuquerque/C0DES/tree/master/node/Iniciando-Projeto_Preparando-Dependencias-e-Diretorios) (outdated)
 1. Java
+    1. [JAX-RS](https://github.com/devAlbuquerque/C0DES/tree/master/java/JAX-RS-Carrinho_Compras) 
     1. Spring
         1. [Api Rest](https://github.com/devAlbuquerque/C0DES/tree/master/java/spring/api-rest/forum)
         1. [Api Rest com autenticação via JWT, monitoramento por Actuator e documentação com Swagger](https://github.com/devAlbuquerque/C0DES/tree/master/java/spring/api-rest-security-jwt)
