@@ -3,7 +3,7 @@
 :us: Environment focused on codes of examples of singular functionalities.
 
 1. Node
-    1. [Iniciando Projeto em Node](https://github.com/devAlbuquerque/C0DES/tree/master/node/Iniciando-Projeto_Preparando-Dependencias-e-Diretorios) (outdated)
+    1. (Coming Soon)
 1. Java
     1. [JAX-RS](https://github.com/devAlbuquerque/C0DES/tree/master/java/JAX-RS-Carrinho_Compras) 
     1. Spring
